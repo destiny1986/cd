@@ -1,0 +1,73 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: fXeBXfAa90IMZJPeIXXFmpAbxG8=
+
+Name: res/drawable-xhdpi/ic_launcher.png
+SHA1-Digest: 0W/X/VFBsG1ZvyPVAZlb71kO3sY=
+
+Name: res/drawable/descriptor_status.xml
+SHA1-Digest: zbCDrXgMrDYyWaNLXjX3YlFIp0c=
+
+Name: res/drawable-hdpi/ic_launcher.png
+SHA1-Digest: iBbfeAD3V+bUbqZo6VEzJ6XMYFk=
+
+Name: res/layout/descriptor_item.xml
+SHA1-Digest: jy3FE6wtt1dEnpIZKLqxIWFPVgk=
+
+Name: res/drawable-hdpi/ble_icon.png
+SHA1-Digest: NZBRe0IRtRU1wR2S+ppzffnIxkY=
+
+Name: res/drawable-xxhdpi/ble_icon.png
+SHA1-Digest: CCKp3+q+1pI2D65200iNZXoNnXM=
+
+Name: resources.arsc
+SHA1-Digest: 01ih2K0Jvmg6Urvxf/5aeE+t0KI=
+
+Name: res/layout/custom_listitem_device.xml
+SHA1-Digest: /3gfMeolqzhDCq4pG1oIh+7FBFM=
+
+Name: classes.dex
+SHA1-Digest: CAmdmpnHYq22hEOG6G4ziobZTG4=
+
+Name: res/drawable-mdpi/ble_icon.png
+SHA1-Digest: dqgc5CwjkF4ySyED8IDwPUs6aIw=
+
+Name: res/drawable-xxhdpi/ic_launcher.png
+SHA1-Digest: BID2yhRMZg76oQbFkEHzUSHPvdY=
+
+Name: res/menu/main.xml
+SHA1-Digest: JkMDtgMy0uGCtZBcSTqOC1fT/ew=
+
+Name: res/menu/gatt_services.xml
+SHA1-Digest: nxSZXd/fzrdov4k7YE0prW7/nz4=
+
+Name: AndroidManifest.xml
+SHA1-Digest: arZeh7XtnR+NukuLWWgdd6AalqA=
+
+Name: res/layout/memu_button.xml
+SHA1-Digest: VB9LowXvLsn/0CdAYtNHUzbFHII=
+
+Name: res/layout/input_layout_dialog_frag.xml
+SHA1-Digest: PpEkUuXZGqxMmH9vVDNskUwsX4w=
+
+Name: res/drawable-mdpi/ic_launcher.png
+SHA1-Digest: OiehEMPm8ceJa1JASuQRAgn4zXE=
+
+Name: res/layout/gatt_services_characteristics.xml
+SHA1-Digest: to2iFX0nEws+kyXnvHTKALG8P5E=
+
+Name: res/layout/actionbar_indeterminate_progress.xml
+SHA1-Digest: 4TVEUi7N5NmuKJygmD6kuvtVflI=
+
+Name: res/layout/listitem_device.xml
+SHA1-Digest: 2DWTmCg+vhXoZfexx8J1+Ctg1s0=
+
+Name: res/layout/child_listitem_device.xml
+SHA1-Digest: JNghYhozXXwCac/wJLjqtKZIswY=
+
+Name: res/layout/descriptor_laytout.xml
+SHA1-Digest: 9cq8a3vmop/EURm6ZI+1uaUCorQ=
+
+Name: res/drawable-xhdpi/ble_icon.png
+SHA1-Digest: EWA3qAoCrvqM5v8p+OwjZ1fSfp8=
+
